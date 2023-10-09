@@ -4,7 +4,7 @@
     width: 100vw;
    }
 
-   main .personagens .imagem {
+   main .personagem .imagem {
     height: 85%;
    }
 
@@ -37,7 +37,7 @@
     }
     
 @media (max-width: 425px) {
-    main .personagens .imagem{
+    main .personagem .imagem{
         height: auto;
     }
 
